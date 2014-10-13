@@ -25,7 +25,7 @@ arr=[]
 arr1=[]
 MAX_RESULTS = 200 # Will require multiple requests
 activity_results = []
-API_KEY = 'AIzaSyAmKuPaBIPTMnkKGZBP5uDj_uJCKobSlRI' 
+API_KEY = '' 
 i=100
 
 
